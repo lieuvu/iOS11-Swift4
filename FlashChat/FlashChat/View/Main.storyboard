@@ -12,7 +12,7 @@
         <!--Welcome-->
         <scene sceneID="SAj-Rh-o9q">
             <objects>
-                <viewController storyboardIdentifier="welcomeVC" id="w26-XG-9cC" customClass="WelcomeViewController" customModule="Flash_Chat" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="welcomeVC" id="w26-XG-9cC" customClass="WelcomeViewController" customModule="FlashChat" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="cQy-VU-q98"/>
                         <viewControllerLayoutGuide type="bottom" id="9mT-Oj-xlJ"/>
@@ -80,7 +80,7 @@
         <!--Register-->
         <scene sceneID="D59-Lz-QjT">
             <objects>
-                <viewController storyboardIdentifier="registrationVC" id="qQg-wA-Esh" customClass="RegisterViewController" customModule="Flash_Chat" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="registrationVC" id="qQg-wA-Esh" customClass="RegisterViewController" customModule="FlashChat" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="jB2-UX-7gJ"/>
                         <viewControllerLayoutGuide type="bottom" id="uQv-zc-UpP"/>
@@ -160,12 +160,12 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zMZ-W7-skD" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="679" y="409"/>
+            <point key="canvasLocation" x="679" y="491"/>
         </scene>
         <!--Log In-->
         <scene sceneID="Ku8-Lc-W7f">
             <objects>
-                <viewController storyboardIdentifier="logInVC" id="xYK-ej-9R9" customClass="LogInViewController" customModule="Flash_Chat" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="logInVC" id="xYK-ej-9R9" customClass="LogInViewController" customModule="FlashChat" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="fxq-LK-1OE"/>
                         <viewControllerLayoutGuide type="bottom" id="G8E-r3-c8B"/>
@@ -249,7 +249,7 @@
         <!--Flash Chat-->
         <scene sceneID="ufC-wZ-h7g">
             <objects>
-                <viewController storyboardIdentifier="chatVC" id="vXZ-lx-hvc" customClass="ChatViewController" customModule="Flash_Chat" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="chatVC" id="vXZ-lx-hvc" customClass="ChatViewController" customModule="FlashChat" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="jyV-Pf-zRb"/>
                         <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
@@ -361,6 +361,6 @@
         <image name="background1" width="1200" height="795"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="rRW-Qd-PQi"/>
+        <segue reference="RuE-fI-2yI"/>
     </inferredMetricsTieBreakers>
 </document>
