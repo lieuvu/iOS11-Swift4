@@ -14,3 +14,4 @@ The following projects are included in the repo:
 * [Magic 8 Ball](./Magic%208%20Ball/)
 * [Quizzler](./Quizzler/)
 * [Xylophone](./Xylophone/)
+* [Todoey](./Todoey/)
