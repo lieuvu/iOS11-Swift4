@@ -15,3 +15,4 @@ The following projects are included in the repo:
 * [Quizzler](./Quizzler/)
 * [Xylophone](./Xylophone/)
 * [Todoey](./Todoey/)
+* [SeeFood](./SeeFood/)
