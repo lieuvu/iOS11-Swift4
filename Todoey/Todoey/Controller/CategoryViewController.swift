@@ -124,7 +124,7 @@ class CategoryViewController: SwipeTableViewController {
 
 // MARK: - CategoryViewController (Utitlies)
 
-extension CategoryViewController {
+private extension CategoryViewController {
 
     /// Save categories
     ///

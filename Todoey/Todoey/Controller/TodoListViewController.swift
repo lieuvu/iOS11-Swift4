@@ -164,7 +164,7 @@ class TodoListViewController: SwipeTableViewController {
 
 // MARK: - TodoListViewController (Utilities)
 
-extension TodoListViewController {
+private extension TodoListViewController {
     
     /// Update the navigation bar with hex code.
     ///
