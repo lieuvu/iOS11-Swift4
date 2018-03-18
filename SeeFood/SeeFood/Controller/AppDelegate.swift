@@ -2,9 +2,6 @@
 //  AppDelegate.swift
 //  SeeFood
 //
-//  Created by Lieu Vu on 2/6/18.
-//  Copyright © 2018 Lieu Vu. All rights reserved.
-//
 
 import UIKit
 

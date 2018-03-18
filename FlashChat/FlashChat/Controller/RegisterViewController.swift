@@ -2,10 +2,6 @@
 //  RegisterViewController.swift
 //  Flash Chat
 //
-//  Created by Lieu Vu.
-//
-//  This is the View Controller which registers new users with Firebase
-//
 
 import UIKit
 import Firebase

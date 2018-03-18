@@ -2,9 +2,6 @@
 //  ViewController.swift
 //  Magic 8 Ball
 //
-//  Created by Lieu Vu on 1/8/18.
-//  Copyright © 2018 Lieu Vu. All rights reserved.
-//
 
 import UIKit
 

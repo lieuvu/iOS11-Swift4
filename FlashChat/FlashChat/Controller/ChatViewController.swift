@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  Flash Chat
 //
-//  Created by Lieu Vu.
-//
 
 import UIKit
 import Firebase

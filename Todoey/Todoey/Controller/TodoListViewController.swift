@@ -2,9 +2,6 @@
 //  TodoListViewController.swift
 //  Todoey
 //
-//  Created by Lieu Vu on 1/26/18.
-//  Copyright © 2018 Lieu Vu. All rights reserved.
-//
 
 import UIKit
 import RealmSwift

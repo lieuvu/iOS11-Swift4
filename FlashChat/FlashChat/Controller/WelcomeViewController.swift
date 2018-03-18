@@ -2,10 +2,6 @@
 //  WelcomeViewController.swift
 //  Flash Chat
 //
-//  Created by Lieu Vu.
-//
-//  This is the welcome view controller - the first thing the user sees
-//
 
 import UIKit
 

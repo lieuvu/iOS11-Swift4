@@ -2,9 +2,6 @@
 //  LogInViewController.swift
 //  Flash Chat
 //
-//  Created by Lieu Vu.
-//
-//  This is the view controller where users login
 
 
 import UIKit

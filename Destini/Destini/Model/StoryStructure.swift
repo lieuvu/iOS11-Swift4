@@ -2,9 +2,6 @@
 //  StoryStructure.swift
 //  Destini
 //
-//  Created by Lieu Vu on 1/9/18.
-//  Copyright © 2018 London App Brewery. All rights reserved.
-//
 
 import Foundation
 
